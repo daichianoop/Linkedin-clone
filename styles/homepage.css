@@ -345,7 +345,7 @@ cursor: pointer;
   padding-bottom: 0px;
 }
 .content{
-  background-color: rgb(228, 230, 235);
+  background-color: rgb(255, 255, 255);
 }
 .lcrs{
   width: 20px;
@@ -370,4 +370,8 @@ border-radius: 6px;
 .lcrs-content:hover{
   background-color: rgb(227, 231, 232);
   cursor: pointer;
+}
+.content p{
+  padding: 0px 25px;
+  font-size: 14px;
 }
